@@ -1,5 +1,6 @@
 // controllers/studentController.js
-
+//private yes
+//
 const Student = require('../models/Student');
 
 const multer = require('multer');
